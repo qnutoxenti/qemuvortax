@@ -9,6 +9,7 @@ Run any operating system (ISO, QCOW2, or compressed archive) directly on **GitHu
 ![Forks](https://img.shields.io/github/forks/qemuvortax/qemuvortax?style=plastic&logo=github&logoColor=white&color=00bfff)
 
 ![Tag](https://img.shields.io/github/v/tag/qemuvortax/qemuvortax?style=plastic&logo=github&logoColor=white&color=00bfff)
+![Qemu-Vortax](https://img.shields.io/badge/Qemu-Vortax-v1.5-00bfff?style=for-the-badge&logo=https://raw.githubusercontent.com/qemuvortax/qemuvortax/main/assets/logo.png&logoColor=white)
 
 ---
 
